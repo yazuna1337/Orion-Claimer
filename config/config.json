@@ -1,0 +1,11 @@
+{
+    "webhook_url": "https://discord.com/api/webhooks/1051968938633867295/5PRmHWQyH0RITcfYOp9nQaiOT1GaiWMnvGtdSGH7OXXk0IiuTc3cBOM30BCXyGIwtC2w",
+    "skin_url": "https://cdn.discordapp.com/attachments/1031141121792954398/1063043895799332914/ddb7f72be6b72126.png",
+    "skin_type": "classic",
+    "proxy_url": "http://q9d9tcrk:fsdECDYVq1mbNz0W_country-UnitedStates@proxy.proxy-cheap.com:31112",
+    "webhook_content": {
+        "title": "Successful Claim!",
+        "description": "Successfully claimed {username}!",
+        "color": 8190976
+    }
+}
